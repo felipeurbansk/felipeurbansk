@@ -1,6 +1,6 @@
-### Eae, beleza?✌️
+###
 
-## 📈 **Github Stats:**
+####
 <div style="display:flex;">
     <a href="https://github.com/felipeurbansk">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeurbansk&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
@@ -10,12 +10,12 @@
     </a>
 </div>
 
-## 
+####
 
-<div style="display: inline_block">
-    <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30px" alt="Experience in PHP"/>
-    <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30px" alt="Experience in NodeJS"/>
-    <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px" alt="Experience in laravel"/>
+<div style="display:inline_block;">
+    <img style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30px" alt="Experience in PHP"/>
+    <img style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30px" alt="Experience in NodeJS"/>
+    <img style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px" alt="Experience in laravel"/>
     <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="30px" alt="Experience in symfony"/>
     <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" alt="Experience in vuejs"/>
     <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="Experience in react"/>
@@ -24,8 +24,7 @@
     <img style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" alt="Experience in linux"/>
 </div>
 
-##
-
+####
 
 <div style="padding-top:5px;">
     <a href="https://www.linkedin.com/in/felipeurbansk" target="_blank">
